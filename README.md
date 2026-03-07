@@ -11,11 +11,11 @@ With over two decades of global executive experience, I specialize in steering F
 
 ---
 
-### 🎤 Executive Speaking, Corporate Training & Freelance Consulting
-I actively partner with global boards, event organizers, and multinational HR departments. I am available for freelance advisory and speaking engagements across Europe and globally in the following areas:
+### 🎤 Executive Speaking, Corporate Training & Expert Consulting
+I actively partner with global boards, event organizers, and multinational HR departments. I am available for executive advisory and speaking engagements across Europe and globally in the following areas:
 * **Corporate Training:** Upskilling Board Members and C-Suite Executives on the EU AI Act, DORA, and AI impact assessments.
 * **Executive Speaking:** Keynotes and panel discussions on *Responsible AI*, *Algorithmic Auditing*, and *Data-Driven Digital Compliance*.
-* **Freelance Consulting:** Building bespoke AI Risk Management frameworks and Quantitative Risk models for financial, automotive, and pharmaceutical sectors.
+* **Expert Advisory:** Building bespoke AI Risk Management frameworks and quantitative risk models for financial, automotive, and pharmaceutical sectors.
 
 ---
 
