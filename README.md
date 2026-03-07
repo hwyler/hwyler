@@ -68,7 +68,7 @@ As an **Executive Education Director and Professor at IE Business School** (Madr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/hernanwyler)
 [![Blog](https://img.shields.io/badge/Blog-My_Daily_Executive-orange.svg)](http://mydailyexecutive.blogspot.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue.svg)](https://twitter.com/hewyler)
-[![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:hernan.huwyler@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:hwyler@tgmaildotcom)
 [![Location](https://img.shields.io/badge/Location-Copenhagen_Metropolitan_Area-lightgrey.svg)](#)
 
 > **"I empower leaders in risk, compliance, and AI to drive business objectives through AI Governance, Digital Compliance, and Responsible AI in multinational companies."**
@@ -405,6 +405,48 @@ I am based in the Copenhagen Metropolitan Area and available for senior advisory
 - **Twitter:** [@hewyler](https://twitter.com/hewyler)
 
 ---
+
+# Prof. Hernan Huwyler, MBA, CPA, CAIO
+## Director de IA y GRC | Gerente de Riesgo de IA | Líder de Riesgo Cuantitativo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue.svg)](https://www.linkedin.com/in/hernanwyler)
+[![Blog](https://img.shields.io/badge/Blog-My_Daily_Executive-orange.svg)](http://mydailyexecutive.blogspot.com)
+[![Ubicación](https://img.shields.io/badge/Ubicación-Área_Metropolitana_de_Copenhague-lightgrey.svg)](#)
+
+> **"Empodero a líderes en riesgo, cumplimiento e inteligencia artificial para impulsar objetivos de negocio mediante Gobierno de IA, Cumplimiento Digital e IA Responsable en empresas multinacionales."**
+
+Con más de dos décadas de experiencia ejecutiva global, me especializo en guiar a organizaciones Fortune 500 a través de las complejidades de la inteligencia artificial y las transformaciones digitales. Actúo como puente entre la ciencia de datos técnica y el gobierno corporativo, asegurando que los sistemas de IA empresarial sean éticos, legalmente conformes y arquitectónicamente diseñados para maximizar el retorno de inversión.
+
+---
+
+### Conferencias Ejecutivas, Formación Corporativa y Conocimiento Experto
+
+Colaboro activamente con consejos de administración globales, organizadores de eventos y departamentos de Recursos Humanos de multinacionales. Estoy disponible para asesoría ejecutiva y conferencias en Europa y a nivel mundial en las siguientes áreas:
+
+- **Formación Corporativa:** Capacitación de miembros de Consejos y Alta Dirección sobre el EU AI Act, DORA y evaluaciones de impacto de IA.
+- **Conferencias Ejecutivas:** Charlas magistrales y paneles de discusión sobre *IA Responsable*, *Auditoría Algorítmica* y *Cumplimiento Digital Basado en Datos*.
+- **Asesoría Experta:** Desarrollo de marcos personalizados de Gestión de Riesgo de IA y modelos cuantitativos de riesgo para los sectores financiero, automotriz y farmacéutico.
+
+---
+
+### Competencias Clave y Experiencia Técnica
+
+- **Gobierno Ejecutivo:** Gobierno de IA | Marcos GRC | Cumplimiento EU AI Act y NIS 2 | Estrategia de IA Responsable
+- **Cuantitativo y Técnico:** Gestión Cuantitativa de Riesgos | Auditoría Algorítmica | Modelos Predictivos de Riesgo | Evaluaciones de Impacto de IA
+- **Stack de IA y Datos:** `Python` `R` `TensorFlow` `PyTorch` `Scikit-learn` `XGBoost` `Simulaciones Monte Carlo`
+- **Sistemas Empresariales:** `SAP GRC` `SAP FiCo` `AWS DataBrew` `ServiceNow AI`
+
+---
+
+### Proyectos Ejecutivos de Alto Impacto y Resultados
+
+#### 1. Gobierno de IA Empresarial y Controles de Sistemas Autónomos (Automotriz Global)
+- **Valor Generado:** Diseñé un modelo operativo de gobierno de IA a nivel corporativo y un marco de Gestión de Riesgo de IA para asegurar el cumplimiento con el EU AI Act e ISO/IEC 42001.
+- **Ejecución Técnica:** Establecí protocolos de Auditoría Algorítmica para evaluar modelos de machine learning de terceros en cuanto a sesgo, postura de seguridad y fiabilidad, definiendo claramente la responsabilidad de la alta dirección en todo el ciclo de vida de la IA.
+
+#### 2. Modelado Cuantitativo de Riesgos y Validación de Exposición Financiera de IA (Sector Financiero)
+- **Valor Generado:** Dirigí el diseño y backtesting de modelos avanzados de Riesgo Cuantitativo utilizando simulaciones Monte Carlo para medir y mitigar matemáticamente la exposición financiera de sistemas de IA empresariales.
+- **Ejecución Técnica:** Pionero en pipelines de Auditoría Algorítmica utilizando Python (Scikit-learn, PyTorch) y R para realizar pruebas de estrés sistemáticas en modelos de ML, detectando desviación de datos, degradación predictiva y vulnerabilidades adversarias.
 
 *Last updated: March 2026*
 
