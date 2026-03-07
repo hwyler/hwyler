@@ -62,9 +62,6 @@ As an **Executive Education Director and Professor at IE Business School** (Madr
 
 📫 **Get in touch:** Reach out via [LinkedIn](https://www.linkedin.com/in/hernanwyler) for technical inquiries, speaking opportunities, or executive training programs.
 
-# Hernan Huwyler, MBA, CPA, CAIO
-## AI GRC Director | AI Risk Manager | Quantitative Risk Lead
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/hernanwyler)
 [![Blog](https://img.shields.io/badge/Blog-My_Daily_Executive-orange.svg)](http://mydailyexecutive.blogspot.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue.svg)](https://twitter.com/hewyler)
