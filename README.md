@@ -399,7 +399,7 @@ Explore my open-source work in quantitative risk modeling and AI governance:
 
 I am based in the Copenhagen Metropolitan Area and available for senior advisory roles, board positions, corporate training programs, and keynote speaking engagements on the future of AI governance, quantitative risk management, and digital compliance.
 
-- **Email:** [hernan.huwyler@gmail.com](mailto:hernan.huwyler@gmail.com)
+- **Email:** [hwyleratgmailcom](mailto:hwyleratgmailcom)
 - **LinkedIn:** [linkedin.com/in/hernanwyler](https://www.linkedin.com/in/hernanwyler)
 - **Blog:** [mydailyexecutive.blogspot.com](http://mydailyexecutive.blogspot.com)
 - **Twitter:** [@hewyler](https://twitter.com/hewyler)
