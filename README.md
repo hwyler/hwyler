@@ -407,3 +407,5 @@ I am based in the Copenhagen Metropolitan Area and available for senior advisory
 ---
 
 *Last updated: March 2026*
+
+google-site-verification: google59a402524ab67c31.html
