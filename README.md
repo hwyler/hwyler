@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/hernanwyler)
 [![Blog](https://img.shields.io/badge/Blog-My_Daily_Executive-orange.svg)](http://mydailyexecutive.blogspot.com)
-[![Blog2](https://img.shields.io/badge/Blog-AI-Risks.svg)]([http://mydailyexecutive.blogspot.com](https://hernanhuwyler.wordpress.com)
+[![WordPress](https://img.shields.io/badge/WordPress-AI_&_GRC-blueviolet.svg)](https://hernanhuwyler.wordpress.com/)
 [![Location](https://img.shields.io/badge/Location-Copenhagen_Metropolitan_Area-lightgrey.svg)](#)
 
 > **"I empower leaders in risk, compliance, and AI to drive business objectives through AI Governance, Digital Compliance, and Responsible AI in multinational companies."**
