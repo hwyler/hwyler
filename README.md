@@ -410,6 +410,7 @@ I am based in the Copenhagen Metropolitan Area and available for senior advisory
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue.svg)](https://www.linkedin.com/in/hernanwyler)
 [![Blog](https://img.shields.io/badge/Blog-My_Daily_Executive-orange.svg)](http://mydailyexecutive.blogspot.com)
+[![WordPress](https://img.shields.io/badge/Blog-AI_Governance-blue.svg)](https://hernanhuwyler.wordpress.com/)
 [![Ubicación](https://img.shields.io/badge/Ubicación-Área_Metropolitana_de_Copenhague-lightgrey.svg)](#)
 
 > **"Empodero a líderes en riesgo, cumplimiento e inteligencia artificial para impulsar objetivos de negocio mediante Gobierno de IA, Cumplimiento Digital e IA Responsable en empresas multinacionales."**
