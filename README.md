@@ -65,7 +65,7 @@ As an **Executive Education Director and Professor at IE Business School** (Madr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/hernanwyler)
 [![Blog](https://img.shields.io/badge/Blog-My_Daily_Executive-orange.svg)](http://mydailyexecutive.blogspot.com)
-[![Blog](https://img.shields.io/badge/Blog-AI-Governance.svg)]([http://mydailyexecutive.blogspot.com](https://hernanhuwyler.wordpress.com/)
+[![WordPress](https://img.shields.io/badge/Blog-AI_Governance-blue.svg)](https://hernanhuwyler.wordpress.com/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue.svg)](https://twitter.com/hewyler)
 [![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:hwyler@tgmaildotcom)
 [![Location](https://img.shields.io/badge/Location-Copenhagen_Metropolitan_Area-lightgrey.svg)](#)
