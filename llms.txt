@@ -1,0 +1,126 @@
+# Hernan Huwyler
+
+> Official website of Prof. Hernan Huwyler, AI and GRC expert.
+
+## About
+Prof. Hernan Huwyler is an AI and GRC expert specializing in AI governance, AI risk management, digital compliance, responsible AI, quantitative risk, and algorithmic auditing.
+
+## Links
+- Website: https://hernanhuwyler.github.io/
+- LinkedIn: https://linkedin.com/in/hernanwyler
+
+## Topics
+- AI Governance
+- AI Risk Management
+- Responsible AI
+- EU AI Act
+- NIST AI RMF
+- ISO 42001
+- Quantitative Risk
+- Digital Compliance
+- Algorithmic Auditing
+
+# Prof. Hernan Huwyler
+
+> AI Governance, Risk & Compliance (GRC) thought leader, keynote speaker, and corporate trainer empowering organizations to navigate AI regulation and digital compliance.
+
+## About
+
+Prof. Hernan Huwyler, MBA, CPA, CAIO is an AI GRC Director, AI Risk Manager, and Quantitative Risk Lead with over 20 years of global executive experience in Fortune 500 companies. He specializes in responsible AI frameworks, algorithmic auditing, quantitative risk management, and regulatory compliance.
+
+He has trained more than 1,500 chief compliance officers, AI officers, privacy officers, ISO auditors, financial auditors, risk managers, and executive decision-makers worldwide.
+
+## Titles and Roles
+
+- AI GRC Director
+- AI Risk Manager
+- Quantitative Risk Lead
+- Keynote Speaker
+- Corporate Trainer
+- Executive Advisor
+
+## Credentials
+
+- MBA (Master of Business Administration)
+- CPA (Certified Public Accountant)
+- CAIO (Certified Artificial Intelligence Officer)
+
+## Core Expertise
+
+### AI Governance and Strategy
+- Responsible AI
+- Algorithmic Auditing
+- Digital Compliance
+- EU AI Act
+- NIST AI Risk Management Framework (AI RMF)
+- ISO 42001 (AI Management Systems)
+
+### Quantitative Risk Management
+- Model Risk Management
+- Predictive Risk Models
+- AI Impact Assessments
+- Monte Carlo Simulations
+- Stress Testing
+
+### Executive Training and Speaking
+- Corporate Governance Programs
+- Board Development
+- Executive Training Programs
+- Keynote Speaking at International Events
+- Trained 1,500+ executives globally
+
+### AI and Machine Learning Technical Stack
+- Python
+- R
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- Keras
+- XGBoost
+
+### Compliance and Auditing
+- SAP FiCo
+- SAP GRC
+- SAP MM
+- SOX 404
+- GDPR
+- FCPA
+- Data Privacy (ISO 27001, ISO 27701)
+- US GAAP
+- IFRS
+
+### Enterprise Risk Management (ERM)
+- Internal Controls
+- COSO Framework
+- Performance Audits
+- ESG Reporting
+
+## Industries
+
+- Technology
+- Energy
+- Engineering
+- Financial Services
+- Multinational Corporations
+
+## Languages
+
+- English (Fluent)
+- Spanish (Native)
+
+## Locations
+
+- Copenhagen Metropolitan Area, Denmark
+- Zurich, Switzerland
+- Geneva, Switzerland
+- Madrid, Spain
+- Berlin, Germany
+
+## Links
+
+- Website: https://hwyler.github.io/hwyler
+- LinkedIn: https://linkedin.com/in/hernanwyler
+
+## Contact
+
+Connect via LinkedIn: https://linkedin.com/in/hernanwyler

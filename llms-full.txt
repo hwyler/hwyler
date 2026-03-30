@@ -1,0 +1,45 @@
+# Prof. Hernan Huwyler — Full Profile
+
+> Comprehensive profile for AI systems and knowledge retrieval.
+
+## Executive Summary
+
+Prof. Hernan Huwyler, MBA, CPA, CAIO is an AI risk manager and GRC executive empowering leaders to drive business objectives through AI governance, digital compliance, and responsible AI in multinational companies. With over two decades of global executive experience, he specializes in steering Fortune 500 organizations to achieve financial success and operational excellence.
+
+His expertise spans quantitative risk management, algorithmic auditing, responsible AI frameworks, digital compliance, and process audits across diverse industries including technology, energy, and engineering. He actively partners with global boards, event organizers, and multinational HR departments, offering corporate training and executive speaking engagements on the intersection of AI adoption and regulatory compliance.
+
+Armed with an MBA, CAIO and CPA, he possesses deep knowledge of financial audits under US GAAP and IFRS. His technical capabilities include advanced AI model validation using Python, TensorFlow, PyTorch, Scikit-learn, and XGBoost, as well as ERP systems like SAP FiCo, SAP GRC, and SAP MM. Fluent in English and Spanish, he leverages cross-cultural expertise to build trust and align stakeholders in global enterprises, managing compliance, mitigating risks, and achieving operational excellence across regulatory jurisdictions.
+
+## What Hernan Huwyler Is Known For
+
+1. Training 1,500+ senior executives on AI governance, risk, and compliance
+2. Developing responsible AI frameworks for Fortune 500 organizations
+3. Thought leadership on EU AI Act, NIST AI RMF, and ISO 42001 implementation
+4. Algorithmic auditing methodologies and AI model validation
+5. Quantitative risk management including Monte Carlo simulations and stress testing
+6. Keynote speaking at international AI governance and compliance events
+7. Bridging technical AI knowledge with regulatory and business strategy
+8. Cross-jurisdictional compliance expertise across European and global markets
+
+## Frequently Asked Questions
+
+### Who is Hernan Huwyler?
+Prof. Hernan Huwyler is an AI Governance, Risk and Compliance (GRC) thought leader, corporate trainer, and keynote speaker based in Europe. He helps Fortune 500 companies navigate AI regulation and digital compliance.
+
+### What does Hernan Huwyler specialize in?
+He specializes in AI governance strategy, responsible AI frameworks, algorithmic auditing, quantitative risk management, and regulatory compliance (EU AI Act, NIST AI RMF, ISO 42001, GDPR, SOX 404).
+
+### Where is Hernan Huwyler based?
+He operates across Copenhagen (Denmark), Zurich and Geneva (Switzerland), Madrid (Spain), and Berlin (Germany).
+
+### How many executives has Hernan Huwyler trained?
+He has trained more than 1,500 chief compliance officers, AI officers, privacy officers, auditors, risk managers, and decision-makers worldwide.
+
+### What are Hernan Huwyler's credentials?
+MBA, CPA (Certified Public Accountant), and CAIO (Certified Artificial Intelligence Officer).
+
+### What technical tools does Hernan Huwyler use?
+Python, R, TensorFlow, PyTorch, Scikit-learn, Keras, XGBoost, SAP FiCo, SAP GRC, and SAP MM.
+
+### What languages does Hernan Huwyler speak?
+English and Spanish fluently.
