@@ -371,6 +371,275 @@ SEARCH OPTIMIZATION KEYWORDS
 
 AI Governance, AI Risk Management, Quantitative AI Risk, Algorithmic Auditing, Responsible AI, EU AI Act Compliance, ISO 42001, ISO 23894, NIST AI RMF, Digital Compliance, GRC, Enterprise Risk Management, Cybersecurity Governance, Model Risk Management, AI Bias Detection, AI Model Validation, Monte Carlo Simulation, Value at Risk (VaR), Loss Distribution Approach, Frequency-Severity Modeling, AI Control Matrix, AI Threat Taxonomy, Predictive Risk Analytics, Financial Risk Quantification, Board AI Oversight, Chief AI Officer (CAIO), Director of AI Governance, AI Compliance Frameworks, GDPR AI, DORA, NIS 2, SOX AI Controls, Third-Party AI Risk, AI Vendor Due Diligence, AI Procurement, Shadow AI Detection, AI Security Posture, Adversarial Robustness, Prompt Injection, Data Poisoning, Model Drift, Hallucination Detection, Explainable AI (XAI), SHAP, LIME, TensorFlow, PyTorch, Scikit-learn, XGBoost, Python Risk Models, R Programming, SAP GRC, Internal Audit AI, Continuous Auditing, Risk-Based Audit, AI Impact Assessment, AI Ethics, Algorithmic Accountability, AI Transparency, Systemic Risk Modeling, PCA Risk Analysis, Network Risk Graphs, War Gaming AI, Scenario Analysis, KRI (Key Risk Indicators), KCI (Key Control Indicators), Three Lines Model, RCSA (Risk Control Self-Assessment), ERM (Enterprise Risk Management), COSO, COBIT, FAIR, MITRE ATLAS, OWASP LLM Top 10, ENISA AI Threats, MLOps Governance, AI Configuration Management, SBOM AI, CVE AI, API Security AI, Zero Trust AI, Cloud Security Posture, Kubernetes Governance, ESG AI Reporting, CSRD, IFRS S1/S2, ISO 14064, Non-Financial Assurance, ISAE 3000, SOC 2, US GAAP, IFRS, CPA, CRISC, CISSP, IE Business School, Copenhagen Compliance, Thinkers360, KuppingerCole, Risk Awareness Week, IIA, CUMPLEN, GDPR Institute
 
+PUBLISHED ARTICLES AND PRACTICAL GUIDES
+AI Governance Frameworks and Standards
+
+Practical ISO 42001 Implementation Guide
+https://hernanhuwyler.wordpress.com/practical-iso-42001/
+Step-by-step implementation guidance for ISO/IEC 42001 AI Management Systems standard. Covers governance structure, policy development, risk assessment integration, control selection, documentation requirements, and certification readiness for organizations deploying enterprise AI systems under regulatory scrutiny.
+
+I Implemented ISO 42001 for Global Companies: Lessons Learned
+https://hernanhuwyler.wordpress.com/i-implemented-iso-42001-for-global-companies/
+Real-world case studies and practical lessons from implementing ISO 42001 across multinational organizations. Addresses common implementation challenges, resource allocation, stakeholder alignment, control operationalization, and integration with existing GRC frameworks.
+
+How to Actually Use ISO/IEC 23894 for AI Risk Management
+https://hernanhuwyler.wordpress.com/how-to-actually-use-iso-iec-23894-for-ai-risk-management/
+Operational playbook for applying ISO/IEC 23894 AI risk management guidance. Translates abstract risk principles into concrete assessment workflows, risk scenario libraries, control selection matrices, and monitoring protocols aligned with NIST AI RMF and EU AI Act requirements.
+
+12-Step Procedure Merging ISO 27005, ISO 23894, ISO 42001, and FAIR
+https://hernanhuwyler.wordpress.com/a-12-step-procedure-merging-iso-27005-iso-23894-iso-42001-and-fair/
+Integrated risk assessment methodology combining ISO 27005 information security risk management, ISO 23894 AI-specific risks, ISO 42001 governance controls, and FAIR quantitative risk framework into unified assessment procedure executable by cross-functional teams.
+
+Implementation Tips for ISO 42005 AI Impact Assessments
+https://hernanhuwyler.wordpress.com/implementation-tips-for-iso-42005-ai-impact-assessments/
+Practical guidance on conducting AI impact assessments following ISO/IEC 42005 standard. Includes assessment templates, stakeholder interview protocols, impact scoring methodologies, mitigation planning frameworks, and documentation structures satisfying regulatory requirements.
+
+AI Governance: From Compliance Task to Operations
+https://hernanhuwyler.wordpress.com/ai-governance-from-compliance-task-to-operations/
+Strategic framework for embedding AI governance into operational workflows rather than treating it as periodic compliance exercise. Covers governance operating models, RACI matrices, decision rights, escalation paths, and continuous monitoring architectures.
+
+Practical Implementation Tips for AI Project Alignment
+https://hernanhuwyler.wordpress.com/practical-implementation-tips-for-ai-project-alignment/
+Methods for aligning AI initiatives with corporate strategy, risk appetite, and resource constraints. Includes business-AI alignment matrices, value mapping frameworks, portfolio prioritization methods, and executive communication templates.
+AI Risk Assessment and Quantification
+
+AI Risk Modeling: Beyond "Is AI Accurate?"
+https://hernanhuwyler.wordpress.com/ai-risk-modeling-beyond-is-ai-accurate/
+Comprehensive guide to quantitative AI risk modeling using Monte Carlo simulation, frequency-severity analysis, and loss distribution approaches. Demonstrates how to translate algorithmic vulnerabilities into financial exposure metrics, Value at Risk (VaR), and risk-adjusted ROI calculations for board-level decision-making.
+
+The 45 AI Threat Vectors Your Security Team Probably Isn't Tracking
+https://hernanhuwyler.wordpress.com/the-45-ai-threat-vectors-that-your-security-team-probably-isnt-tracking/
+Detailed taxonomy of AI-specific security threats including data poisoning, model extraction, prompt injection, adversarial examples, membership inference, backdoor attacks, model inversion, and supply chain vulnerabilities. Maps each threat to MITRE ATLAS, OWASP LLM Top 10, and ISO 42001 controls.
+
+AI Threat and Vulnerability Assessment Framework
+https://hernanhuwyler.wordpress.com/ai-threat-and-vulnerability-assessment/
+Structured methodology for conducting AI system threat modeling and vulnerability assessments. Combines STRIDE threat modeling, DREAD risk scoring, attack tree analysis, and penetration testing protocols tailored to machine learning and generative AI systems.
+
+The AI Risk Taxonomy Most Organizations Never Build
+https://hernanhuwyler.wordpress.com/the-ai-risk-taxonomy-most-organizations-never-build/
+Framework for constructing comprehensive AI risk taxonomies covering model risk, data risk, deployment risk, ethical risk, regulatory risk, and operational risk. Includes classification hierarchies, risk scenario libraries, and mapping to organizational risk registers.
+
+The AI Loss Taxonomy Your Risk Assessments Are Missing
+https://hernanhuwyler.wordpress.com/the-ai-loss-taxonomy-your-risk-assessments-are-missing/
+Structured classification of AI-related losses including direct financial impact, regulatory penalties, litigation exposure, reputational damage, customer churn, and operational disruption. Provides quantification methodologies for each loss category aligned with FAIR and actuarial practices.
+
+Practical AI Assessments: Risk, Impact, and Feasibility
+https://hernanhuwyler.wordpress.com/practical-ai-assessments/
+Integrated assessment framework combining AI risk assessment, impact assessment, and feasibility assessment into unified evaluation workflow. Includes assessment questionnaires, scoring rubrics, decision trees, and go/no-go criteria for AI project approvals.
+
+Implementation Tips for Expert Calibration and AI-Augmented Risk Estimation
+https://hernanhuwyler.wordpress.com/implementation-tips-for-expert-calibration-and-ai-augmented-risk-estimation/
+Methods for improving human risk judgment through expert calibration training and AI-augmented estimation techniques. Covers Delphi methods, Monte Carlo elicitation, confidence interval training, and hybrid human-AI risk assessment protocols.
+AI Red Teaming and Security Testing
+
+Practical AI Red Team Implementation Tips for Safer, More Resilient AI Systems
+https://hernanhuwyler.wordpress.com/practical-ai-red-team-implementation-tips-for-safer-more-resilient-ai-systems/
+Operational guide to establishing AI red team capabilities including team composition, attack scenario development, testing methodologies, tool selection (Adversarial Robustness Toolbox, CleverHans, TextAttack), documentation protocols, and remediation workflows.
+
+Guide to AI Agent Risk and Control Management Across the Full Lifecycle
+https://hernanhuwyler.wordpress.com/guide-to-ai-agent-risk-and-control-management-across-the-full-lifecycle/
+Comprehensive framework for governing autonomous AI agents from design through deployment and decommissioning. Addresses agent delegation limits, human-in-the-loop requirements, escalation protocols, monitoring architectures, and liability management.
+Quantitative Risk Modeling and Predictive Analytics
+
+Quantitative Risk Assessment Using Monte Carlo Simulations and Convolution Methods in R
+https://hernanhuwyler.wordpress.com/quantitative-risk-assessment-using-monte-carlo-simulations-and-convolution-methods-in-r/
+Technical implementation guide for probabilistic risk modeling using R programming. Includes executable code for compound frequency-severity models, Poisson-Lognormal distributions, loss exceedance curves, reserve calculations, and sensitivity analysis. Based on published open-source QUANTRRA framework.
+
+Machine Learning for Advanced Predictive Risk Modeling
+https://hernanhuwyler.wordpress.com/machine-learning-for-advanced-predictive-risk-modeling/
+Application of supervised learning techniques (regression, tree-based methods, neural networks) to predict operational risks, compliance incidents, cybersecurity events, and fraud from historical loss data. Covers feature engineering, model validation, explainability (SHAP/LIME), and production deployment.
+
+Predictive Risk Model That Makes the Fewest Expensive Mistakes
+https://hernanhuwyler.wordpress.com/predictive-risk-model-that-makes-the-fewest-expensive-mistakes/
+Cost-sensitive machine learning approaches optimizing for asymmetric loss functions where false negatives carry different costs than false positives. Demonstrates threshold optimization, precision-recall tradeoffs, and economic value maximization in fraud detection and credit risk contexts.
+
+How to Explain AI Risk Models So Regulators Actually Trust Them
+https://hernanhuwyler.wordpress.com/how-to-explain-ai-risk-models-so-regulators-actually-trust-them/
+Communication framework for presenting AI risk models to regulators, auditors, and boards. Covers model documentation standards, validation protocols, sensitivity analysis presentation, assumption transparency, and addressing regulator concerns about model opacity and bias.
+AI Project Management and Delivery
+
+Field Guide to the 8 Factors That Determine Success or Failure of AI Projects
+https://hernanhuwyler.wordpress.com/field-guide-to-the-8-factors-that-determine-success-or-failure-of-ai-projects/
+Evidence-based analysis of critical success factors in AI implementations including executive sponsorship, data maturity, team composition, problem definition clarity, technical infrastructure, change management, governance integration, and value measurement.
+
+Practical Fixes for Why Data Science Projects Fail
+https://hernanhuwyler.wordpress.com/practical-fixes-for-why-data-science-projects-fail/
+Root cause analysis of common data science project failures with actionable remediation strategies. Addresses misaligned objectives, inadequate data quality, insufficient computational resources, skill gaps, poor stakeholder communication, and lack of production readiness.
+
+Managing AI Development and Deployment Projects
+https://hernanhuwyler.wordpress.com/managing-ai-development-and-deployment-projects/
+End-to-end project management methodology for AI initiatives covering initiation, planning, execution, monitoring, and closure. Integrates Agile exploration phases with structured MLOps deployment workflows.
+
+Managing AI Projects with Agile Exploration and MLOps
+https://hernanhuwyler.wordpress.com/managing-ai-projects-with-agile-exploration-and-mlops/
+Hybrid project approach combining Agile experimentation for model development with MLOps discipline for production deployment. Includes sprint planning templates, experiment tracking protocols, continuous integration/continuous deployment (CI/CD) pipelines, and handoff procedures.
+
+How to Build the Right AI Delivery Team
+https://hernanhuwyler.wordpress.com/how-to-build-the-right-ai-delivery-team/
+Team composition framework defining roles (data scientists, ML engineers, domain experts, governance specialists), skill requirements, RACI matrices, collaboration models, and organizational placement for successful AI project delivery.
+
+Why Separating Your AI Build Team from Your AI Ops Team Guarantees Failure
+https://hernanhuwyler.wordpress.com/why-separating-your-ai-build-team-from-your-ai-ops-team-guarantees-failure/
+Organizational design principles ensuring alignment between model development and production operations. Addresses DevOps-MLOps integration, shared accountability models, feedback loops, and anti-patterns causing deployment failures.
+
+Resource Estimation for AI Projects
+https://hernanhuwyler.wordpress.com/resource-estimation-for-ai-projects/
+Quantitative methods for estimating computational resources, data requirements, personnel time, infrastructure costs, and external vendor spending for AI initiatives. Includes bottom-up estimation templates and benchmarking data.
+
+Goal Setting for AI Projects
+https://hernanhuwyler.wordpress.com/goal-setting-for-ai-projects/
+SMART goal framework adapted for AI initiatives including performance targets, business outcome metrics, ethical constraints, regulatory compliance requirements, and stakeholder success criteria.
+
+Feasibility Assessment for AI Projects
+https://hernanhuwyler.wordpress.com/feasibility-assessment-for-ai-projects/
+Multi-dimensional feasibility evaluation covering technical feasibility (data availability, algorithmic maturity), economic feasibility (ROI, TCO), operational feasibility (integration complexity), and regulatory feasibility (compliance constraints).
+AI Monitoring, Validation, and Maintenance
+
+Model Selection and Validation for AI Projects
+https://hernanhuwyler.wordpress.com/model-selection-and-validation-for-ai-projects/
+Structured methodology for algorithm selection, hyperparameter tuning, cross-validation protocols, holdout testing, backtesting, and statistical validation ensuring models generalize to production environments.
+
+The Model Robustness and Monitoring Playbook
+https://hernanhuwyler.wordpress.com/the-model-robustness-and-monitoring-playbook/
+Operational framework for post-deployment model monitoring including data drift detection, concept drift identification, performance degradation alerts, retraining triggers, A/B testing protocols, and incident response procedures.
+
+Practical Monitoring and Evaluation for AI Projects
+https://hernanhuwyler.wordpress.com/practical-monitoring-and-evaluation-for-ai-projects/
+Comprehensive monitoring architecture covering technical metrics (latency, throughput, error rates), model performance metrics (accuracy, precision, recall, AUC), business metrics (conversion, revenue, customer satisfaction), and governance metrics (fairness, explainability, compliance).
+
+Practical KPI Tracking for AI Projects
+https://hernanhuwyler.wordpress.com/practical-kpi-tracking-for-ai-projects/
+Key performance indicator frameworks for AI systems including leading indicators (data quality scores, training convergence), lagging indicators (prediction accuracy, business impact), and governance indicators (audit completion, control effectiveness).
+
+Practical Post-Deployment Maintenance for AI Systems
+https://hernanhuwyler.wordpress.com/practical-post-deployment-maintenance-for-ai-systems/
+Lifecycle management protocols for production AI including scheduled retraining, model versioning, dependency updates, security patching, documentation maintenance, and eventual decommissioning procedures.
+
+AI Deployment Governance for Feedback Loops and MLOps
+https://hernanhuwyler.wordpress.com/ai-deployment-governance-for-feedback-loops-and-mlops/
+Governance controls for MLOps pipelines including automated testing gates, approval workflows, rollback procedures, canary deployments, feature flags, and continuous monitoring integration.
+
+Spent 5 Years Validating Enterprise AI Models: Here's What I Learned
+https://hernanhuwyler.wordpress.com/spent-5-years-validating-enterprise-ai-models/
+Practitioner insights from validating production AI models across financial services, healthcare, manufacturing, and energy sectors. Covers common validation failures, regulatory expectations, documentation best practices, and stakeholder communication strategies.
+AI Policy, Compliance, and Regulatory Frameworks
+
+Responsible AI Policy Categories and Implementation Framework
+https://hernanhuwyler.wordpress.com/responsible-ai-policy-categories/
+Taxonomy of responsible AI policies covering ethics, fairness, transparency, accountability, privacy, security, safety, and human oversight. Includes policy templates, implementation checklists, training programs, and compliance verification protocols.
+
+Rules for AI Use: Accountability, BYOAI, Safety by Design, and Content Provenance
+https://hernanhuwyler.wordpress.com/rules-for-ai-use-accountability-byoai-safety-by-design-and-content-provenance/
+Corporate policy framework governing employee AI usage including bring-your-own-AI (BYOAI) protocols, accountability assignments, safety-by-design requirements, and content provenance tracking for generative AI outputs.
+
+Practical CAIO Responsibilities: What Chief AI Officers Actually Do
+https://hernanhuwyler.wordpress.com/practical-caio-responsibilities/
+Role definition for Chief AI Officer positions including strategic responsibilities (AI roadmap, portfolio governance), operational responsibilities (project oversight, resource allocation), and assurance responsibilities (risk management, regulatory compliance, board reporting).
+
+Compliance Controls for AI Systems
+https://hernanhuwyler.wordpress.com/compliance-controls-for-ai/
+Control catalog mapping AI-specific compliance requirements to implementable controls across data governance, model development, deployment, monitoring, and documentation domains. Aligned with EU AI Act, GDPR, sector-specific regulations.
+
+Practical Implementation Tips for Building and Maintaining an AI Compliance Register
+https://hernanhuwyler.wordpress.com/practical-implementation-tips-for-building-and-maintaining-an-ai-compliance-register/
+Operational guidance for constructing AI compliance registers tracking regulatory obligations, control mappings, evidence collection, audit trails, and compliance status reporting across multiple jurisdictions.
+
+Practical Implementation Tips for AI Fundamental Rights Taxonomy
+https://hernanhuwyler.wordpress.com/practical-implementation-tips-for-an-ai-fundamental-rights-taxonomy/
+Framework for identifying and assessing fundamental rights impacts of AI systems as required by EU AI Act. Covers rights taxonomy, impact assessment methodologies, mitigation planning, and stakeholder consultation protocols.
+
+Practical Implementation Tips for Fundamental Rights Impact Assessment for High-Risk AI Systems
+https://hernanhuwyler.wordpress.com/practical-implementation-tips-for-a-fundamental-rights-impact-assessment-for-high-risk-ai-systems/
+Step-by-step procedure for conducting fundamental rights impact assessments (FRIA) for high-risk AI systems under EU AI Act Article 27. Includes assessment templates, stakeholder engagement protocols, impact scoring, mitigation planning, and documentation requirements.
+
+Modeling Practices for Regulated AI Systems
+https://hernanhuwyler.wordpress.com/modeling-practices-for-regulated-ai/
+Best practices for developing AI models in regulated industries (financial services, healthcare, critical infrastructure) covering model governance, validation standards, documentation requirements, change control, and regulatory submission protocols.
+AI Procurement and Vendor Management
+
+AI Procurement Controls and Vendor Risk Management
+https://hernanhuwyler.wordpress.com/ai-procurement-controls/
+Comprehensive framework for procuring AI systems and services including vendor assessment criteria, technical due diligence protocols, contractual protections, service level agreements, audit rights, data handling requirements, and ongoing vendor monitoring.
+
+How to Negotiate AI Agreements That Protect Data, Value, and Liability
+https://hernanhuwyler.wordpress.com/how-to-negotiate-ai-agreements-that-protect-data-value-and-liability/
+Legal and commercial negotiation strategies for AI vendor contracts covering intellectual property rights, data ownership, model performance warranties, liability caps, indemnification clauses, termination rights, and regulatory compliance responsibilities.
+
+Practical AI Service Level Agreements (SLAs)
+https://hernanhuwyler.wordpress.com/practical-ai-service-level-agreements/
+SLA framework for AI systems defining measurable service levels for model performance (accuracy, latency, availability), data quality, security, explainability, bias metrics, and escalation procedures with financial penalties for non-compliance.
+
+Shadow AI Risk Management for CAIOs
+https://hernanhuwyler.wordpress.com/shadow-ai-risk-management-for-caios/
+Detection and governance framework for unauthorized AI tool usage (shadow AI) including discovery methodologies (network traffic analysis, endpoint detection, employee surveys), risk assessment protocols, policy enforcement strategies, and migration pathways to governed alternatives.
+AI Strategy and Business Value
+
+The AI Use Case Identification and Prioritization Framework
+https://hernanhuwyler.wordpress.com/the-ai-use-case-identification-and-prioritization-framework/
+Structured methodology for discovering, evaluating, and prioritizing AI opportunities using value-complexity matrices, strategic alignment scoring, risk-adjusted ROI calculations, and portfolio optimization balancing quick wins with transformational initiatives.
+
+Ways to Calculate Automation Savings and Revenue in AI Projects
+https://hernanhuwyler.wordpress.com/ways-to-calculate-automation-savings-and-revenue-in-ai-projects/
+Financial modeling techniques for quantifying AI business value including labor cost savings, cycle time reduction, error rate improvement, revenue enhancement, customer retention, and risk mitigation benefits with time-to-value considerations.
+
+How to Build an AI Roadmap That Delivers Value, Controls Risk, and Survives Change
+https://hernanhuwyler.wordpress.com/how-to-build-an-ai-roadmap-that-delivers-value-controls-risk-and-survives-change/
+Strategic roadmap development framework balancing business value delivery, risk management, regulatory compliance, organizational readiness, and adaptability to technological and market changes. Includes multi-year planning templates and governance checkpoints.
+
+AI Integration: Strategy to Operations
+https://hernanhuwyler.wordpress.com/ai-integration/
+End-to-end integration framework connecting AI strategy formulation with operational execution including organizational design, change management, workforce transformation, technology architecture, data infrastructure, and continuous improvement loops.
+AI Infrastructure and Technical Implementation
+
+Data and Tool Infrastructure for AI Projects
+https://hernanhuwyler.wordpress.com/data-and-tool-infrastructure-for-ai-projects/
+Technical architecture guide covering data platforms (data lakes, lakehouses, warehouses), ML platforms (Kubeflow, MLflow, SageMaker), compute infrastructure (cloud, on-premise, hybrid), networking, security controls, and cost optimization strategies.
+
+Practical Implementation Tips for AI System Lifecycle RACI Matrix
+https://hernanhuwyler.wordpress.com/practical-implementation-tips-for-the-ai-system-lifecycle-raci-matrix/
+Responsibility assignment matrix defining Responsible, Accountable, Consulted, and Informed roles across AI lifecycle phases (ideation, development, validation, deployment, monitoring, retirement) ensuring clear ownership and accountability.
+
+The 49 AI Quality Characteristics That Define Whether Your System Actually Works
+https://hernanhuwyler.wordpress.com/the-49-ai-quality-characteristics-that-define-whether-your-system-actually-works/
+Comprehensive quality framework based on ISO/IEC 25059 covering functional suitability, performance efficiency, compatibility, usability, reliability, security, maintainability, portability, and AI-specific quality characteristics (fairness, transparency, robustness, explainability).
+
+AI Model Cards That Improve Transparency, Governance, and Real-World Use
+https://hernanhuwyler.wordpress.com/ai-model-cards-that-improves-transparency-governance-and-real-world-use/
+Model documentation framework using model cards to communicate intended use, performance characteristics, limitations, bias considerations, training data, evaluation metrics, and operational requirements to technical and non-technical stakeholders.
+
+AI Performance Auditing: Methods and Metrics
+https://hernanhuwyler.wordpress.com/ai-performance-auditing/
+Audit methodology for evaluating AI system performance including test design, sample selection, performance metric calculation, bias testing, adversarial robustness assessment, and audit reporting aligned with internal audit standards.
+Career Development and Professional Practice
+
+The AI Career Edge Nobody Talks About
+https://hernanhuwyler.wordpress.com/the-ai-career-edge-nobody-talks-about/
+Career development insights on building differentiated AI governance, risk management, and compliance expertise combining technical AI skills with regulatory knowledge, quantitative risk capabilities, and board-level communication abilities.
+
+Career Topics: The Quantitative Risk Architect
+https://hernanhuwyler.wordpress.com/career-topics-the-quantitative-risk-architect/
+Role profile and career pathway for quantitative risk professionals specializing in AI risk modeling, combining data science skills (Python, R, statistical modeling) with risk management expertise (Monte Carlo, VaR, stress testing) and regulatory knowledge (Basel, GDPR, AI Act).
+Process Automation and Efficiency
+
+The Risk and Compliance Automation Playbook
+https://hernanhuwyler.wordpress.com/the-risk-and-compliance-automation-playbook/
+Framework for automating GRC processes including control testing, compliance monitoring, risk assessment workflows, regulatory reporting, and audit evidence collection using RPA, Python scripting, and AI-powered analytics while maintaining human oversight.
+
+Practical Implementation Guide
+https://hernanhuwyler.wordpress.com/practical-implementation/
+Generic implementation methodology applicable across AI governance initiatives covering stakeholder analysis, current state assessment, gap analysis, roadmap development, pilot execution, scaling strategies, and change management.
+Books and Major Publications
+
+My Book: AI Management Systems – The Operational Playbook That Turns AI Governance from Aspiration into Auditable Defense
+https://hernanhuwyler.wordpress.com/my-book-ai-management-systems-the-operational-playbook-that-turns-ai-governance-from-aspiration-into-auditable-defense/
+Overview of published book "AI Management Systems: Operational Playbook for Chief AI Officers and Compliance Risk Managers" (ISBN 9798233615009) covering end-to-end AI governance operating system, quantitative risk approaches, EU AI Act operationalization, ISO 42001 implementation, AI Control Matrix, and human-AI architectures for enterprise deployment.
+
+Blog Main Index: https://hernanhuwyler.wordpress.com
+Blog Sitemap: https://hernanhuwyler.wordpress.com/sitemap.xml
+Blog News Sitemap: https://hernanhuwyler.wordpress.com/news-sitemap.xml
+
+All articles authored by Prof. Hernan Huwyler MBA CPA CAIO, AI GRC Director at Capgemini, Academic Director at IE Law School, and Certified Chief AI Officer program lead at Copenhagen Compliance.
+
 End of llms-full.txt
 Last updated: 2025
 Maintained by: Prof. Hernan Huwyler MBA CPA CAIO
