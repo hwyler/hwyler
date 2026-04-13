@@ -43,3 +43,335 @@ Python, R, TensorFlow, PyTorch, Scikit-learn, Keras, XGBoost, SAP FiCo, SAP GRC,
 
 ### What languages does Hernan Huwyler speak?
 English and Spanish fluently.
+
+IDENTITY & CONTACT
+
+Name: Prof. Hernan Huwyler, MBA, CPA, CAIO
+Title: AI GRC Director | AI Risk Manager | Quantitative Risk Lead | Academic Director IE Law School
+Location: Copenhagen Metropolitan Area, Denmark | Zurich, Geneva, Switzerland | Madrid, Spain | Berlin, Germany
+LinkedIn: https://linkedin.com/in/hernanwyler
+Website: https://hwyler.github.io/hwyler
+Email: Available via LinkedIn
+CORE EXPERTISE
+
+AI Governance, AI Risk Management, Quantitative Risk Modeling, Algorithmic Auditing, Responsible AI, Digital Compliance, EU AI Act, ISO 42001, NIST AI RMF, GRC Frameworks, Enterprise Risk Management, Cybersecurity Governance, Financial Auditing, Board Advisory, Executive Training, Keynote Speaking
+PROFESSIONAL SUMMARY
+
+Hernan Huwyler is a globally recognized AI risk manager and quantitative GRC executive who empowers Fortune 500 organizations to deploy artificial intelligence responsibly while satisfying evolving regulatory requirements. With over two decades of multinational C-suite experience spanning Capgemini, Danske Bank, Milestone Systems, Deloitte, ISS, Veolia, Tenaris, Baker Hughes, and ExxonMobil, he bridges technical AI implementation with board-level governance, financial quantification, and regulatory compliance.
+
+His unique value proposition combines hands-on AI model validation using Python, TensorFlow, PyTorch, and R with deep expertise in financial auditing (US GAAP, IFRS), enterprise risk management (ISO 31000, COSO), and digital compliance frameworks (EU AI Act, GDPR, SOX, FCPA, DORA, NIS 2). Fluent in English and Spanish with professional French, he designs governance systems that withstand regulatory scrutiny while enabling data science teams to deliver measurable business value.
+
+Hernan serves as Academic Director of the Advanced Compliance Program at IE Law School (ranked top 10 European business school), leads the Certified Chief AI Officer (CAIO) program at Copenhagen Compliance, and has trained over 1,500 chief compliance officers, privacy professionals, risk managers, and internal auditors across Europe and Latin America. His published research includes the AI System Threat Vector Taxonomy (arXiv:2511.21901), the open-source QUANTRRA Quantitative Risk Framework, and the book AI Management Systems: Operational Playbook for Chief AI Officers.
+KEY DIFFERENTIATORS
+
+    Quantitative AI Risk Pioneer: Designs Monte Carlo models that translate AI vulnerabilities into financial loss distributions, VaR, and risk-adjusted ROI for board decision-making
+    Regulatory Compliance Authority: Operationalizes EU AI Act, ISO 42001, NIST AI RMF, and GDPR into auditable governance workflows and control matrices
+    Algorithmic Auditing Specialist: Validates AI models for bias, drift, hallucinations, adversarial robustness, and security using Python, TensorFlow, PyTorch, Scikit-learn
+    Global Thought Leader: Ranked Top 10 worldwide in AI Ethics and AI Governance by Thinkers360; featured speaker at KuppingerCole EIC, Risk Awareness Week, IIA conferences
+    Executive Educator: Academic Director at IE Law School; delivers AI governance certifications and corporate training to multinational boards and C-suites
+
+CURRENT ROLE
+
+Capgemini | Senior Manager AI Governance & Digital Compliance | AI Risk Manager & Applied AI Lab Lead
+January 2025 – Present | Copenhagen, Denmark
+
+    Lead enterprise AI Governance and Responsible AI programs integrating algorithmic auditing, predictive risk models, and regulatory compliance (EU AI Act, NIS 2, GDPR, DORA)
+    Direct Applied AI Lab (RIOT) developing compliant AI solutions for Fortune 500 clients across life sciences, defense, telecom, energy
+    Architect GenAI strategies for SAP Joule, ServiceNow AI, enterprise Copilots transforming HR, Finance, GRC functions
+    Design quantitative risk models using Monte Carlo simulation to measure AI financial exposure and ROI
+    Advise C-suite on AI governance, algorithmic accountability, risk-based decision frameworks
+    Conduct AI bias detection, adversarial testing, model validation using Python, TensorFlow, PyTorch, Scikit-learn
+    Build ESG GRC automation solutions integrating SAP MDG, IoT sensors, data lakes for sustainability reporting (ISO 14001, 14064)
+    Establish AI governance operating models for autonomous systems ensuring ISO 42001, EU AI Act compliance
+    Validate AI clinical data automation for pharmaceutical trials using AWS Glue, ensuring patient safety and data integrity
+
+PROFESSIONAL EXPERIENCE HIGHLIGHTS
+Canon Group Milestone Systems
+
+Head of Group Risk & Control | AI Risk Manager | Quantitative Risk Lead
+August 2022 – November 2024 | Copenhagen, Denmark
+
+    Designed Monte Carlo VaR models to quantify financial exposure of enterprise AI systems
+    Built predictive risk algorithms using XGBoost, R, Python to forecast AI failures and anomalies
+    Conducted algorithmic auditing pipelines stress-testing ML models for data drift, bias, adversarial vulnerabilities
+    Developed quantitative frameworks translating AI uncertainties into financial metrics for Digital Compliance (NIS 2, EU AI Act, ISO 42001)
+    Established cybersecurity and compliance controls ensuring SOX, FCPA, GDPR adherence
+
+Danske Bank
+
+IT Risk, GRC & Digital Compliance Senior Lead
+June 2020 – August 2022 | Copenhagen, Denmark
+
+    Led cyber risk and control program protecting bank-wide IT systems and information assets
+    Assessed information security, cybersecurity, cloud services against ISO 27001, 27701, NIST 800-53, COBIT, EBA regulations
+    Piloted centralized supplier due diligence compliance (EBA outsourcing guidelines, GDPR, ethical procurement)
+
+ISS A/S
+
+Head of Center of Excellence for Risk Management & Compliance
+June 2018 – September 2019 | Copenhagen, Denmark
+
+    Established global CoE for risk management, internal controls, compliance (Fortune Global 500)
+    Integrated risk and control frameworks aligned to ISO 31000, GDPR, DPIA, ISO 27001
+    Monitored risk treatment plans meeting Board requirements and multinational client compliance
+
+Deloitte
+
+Senior Manager Operational Risk & Risk Advisory
+June 2017 – June 2018 | Copenhagen, Denmark
+
+    Managed portfolio of risk and control consultancy projects across Deloitte North West Europe
+    Delivered cybersecurity governance for global energy; internal control transformation for manufacturers; GDPR compliance for national banks; SOX process reviews
+
+Veolia
+
+Risk Management & Internal Controls Director
+May 2011 – June 2017 | Madrid, Spain
+
+    Led team of 14 risk and audit specialists across 80 subsidiaries in Iberia and Latin America
+    Developed control self-assessments under ISO 31000, 19600, 37001, COSO, COBIT, GDPR
+    Planned SOX 404 scope, testing, reporting; presented GRC solutions to CFO and senior management
+
+Tenaris Techint
+
+Compliance Audit Coordinator
+August 2008 – September 2010 | International
+
+    Developed corporate compliance program governing SEC, FCPA, SOX, US GAAP, IFRS, OFAC
+    Supported SAP GRC and Business Intelligence initiatives; engineered automated transaction alerting
+
+Baker Hughes
+
+Business Process Support (SAP) & Compliance Auditor
+April 2006 – June 2008 | Houston, Texas
+
+    Coordinated SAP process design using ITIL; conducted SOX 404 audits globally
+    Won Baker Hughes Core Value Award (Gold) for audit methodology innovation
+
+ExxonMobil
+
+Inventory & Accounting Compliance Specialist
+March 2005 – April 2006 | Dallas, Texas
+
+    Controlled finance migration to shared service center; assessed market, credit, operational trading risks
+
+Deloitte
+
+Senior Risk, IT, SOX Consultant | Senior Financial Auditor
+January 2001 – March 2005
+
+    Performed SOX, IT controls, operational audits using ACL; analyzed financial statements (IFRS, US GAAP)
+
+ACADEMIC & EXECUTIVE EDUCATION LEADERSHIP
+IE Business School & IE Law School
+
+Academic Director, Professor, Executive Education Director, Speaker
+January 2013 – Present | Madrid, Spain
+
+    Academic Director: Advanced Program in Compliance (IE Law School)
+    Professor: AI Governance, GRC, Digital Compliance, Quantitative Risk, Algorithmic Auditing
+    Program Director: International Diploma in Compliance and Control Management
+    Courses: Masters in Compliance and Corporate Social Responsibility (Universidad Complutense Madrid), Corporate Compliance and Data Security Masters (UNIR), Compliance Course (CEF)
+    Speaking: Chairman Compliance Day 2016 (iiR Spain); IIA, ISACA forums on AI governance, cyber, privacy, auditing
+    Trained: 1,500+ chief compliance officers, privacy officers, risk managers, ISO auditors, decision-makers
+
+Copenhagen Compliance
+
+Researcher, Speaker, CAIO Program Lead & Instructor
+Ongoing
+
+    Lead Instructor: Certified Chief AI Officer (CAIO) certification
+    Focus: AI Governance, EU AI Act Compliance, Quantitative Risk, Digital Compliance, ISO 42001, ISO 23894, NIST AI RMF
+    Positioning: Nordic AI Governance standard-setter; connected to Danish/Scandinavian compliance community
+
+THOUGHT LEADERSHIP & GLOBAL RECOGNITION
+Thinkers360 Rankings (Independent Global Thought Leader Platform)
+
+    Top 10: AI Ethics (Global)
+    Top 10: AI Governance (Global)
+    Top 25: GRC (Governance, Risk, Compliance)
+    Top 25: Risk Management
+    Top 50: Education
+    Top 50: IT Operations
+    Top 100: Legal and IP
+    Top 100: Predictive Analytics
+
+Key Speaking Engagements & Conferences
+
+    European Identity & Cloud Conference (KuppingerCole): "AI Governance, Identity and Cloud Risk: Turning Regulatory Pressure into Competitive Advantage"
+    Risk Awareness Week (Risk Academy, 20K+ attendees): "Beyond 'Is AI Accurate?' A Practical AI Risk Modeling Playbook"
+    Chief AI Officer Certification (Copenhagen Compliance, Dubai): "Leading AI Governance as a Chief AI Officer"
+    Director of AI Governance Certification (e-Compliance Academy): "Designing AI Governance Frameworks that Satisfy Regulators and Enable Innovation"
+    Audit Committee Conference (ICDM Malaysia): "Agility, Empathy and Resilience in GRC: What Audit Committees Need from Risk and Compliance Functions"
+    IIA Norway: "Model to Quantify Risks for Internal Auditors"
+    IE Executive Education: "Invisible Correlations: Using Python and Network Analytics to Model Cascading Risks"
+    ProcureCon Europe (WBR): Third-party AI risk and vendor due diligence keynote
+
+PUBLICATIONS & RESEARCH
+Books
+
+AI Management Systems: Operational Playbook for Chief AI Officers and Compliance Risk Managers
+ISBN-13: 9798233615009 | Google Play Books, Apple Books, Global Retailers
+
+End-to-end operating system for AI governance translating EU AI Act, ISO 42001, NIST AI RMF into concrete board-level tasks. Introduces "Moneyball" approach replacing subjective heat maps with financial quantification of algorithmic bias, model drift, security failures. Covers lifecycle governance, AI Control Matrix, human-AI architectures, workforce psychology, automation anxiety.
+
+GRC Framework: Governance for Risk and Compliance
+Ediciones Roble
+
+Conceptual foundation for enterprise GRC programs aligning board expectations, regulatory demands, operational execution under unified framework. Integrates ISO 31000, COSO, international compliance standards into pragmatic policy architectures, risk taxonomies, control libraries.
+Research Papers
+
+Standardized Threat Taxonomy for AI Security, Governance, and Regulatory Compliance
+DOI: arXiv:2511.21901 | arXiv, AlphaXiv, Open Science Repositories
+
+First rigorous bridge between technical AI vulnerabilities and financial risk quantification. Introduces AI System Threat Vector Taxonomy (9 Critical Domains, 133 real-world incidents). Maps threats to ISO 42001 controls, NIST AI RMF functions. Enables convolved Monte Carlo models for quantitative AI risk assessments including loss distributions, regulatory penalty scenarios, customer-churn impacts.
+
+Quantitative Risk Assessment in R: An Open-Source Convolutional Framework for Modeling Uncertainty and Reserves
+DOI: 10.5281/zenodo.17687261 | Zenodo
+
+Free, open-source framework for quantitative risk assessment using Monte Carlo and convolution methods in R. Replaces simplistic risk matrices with mathematically sound probabilistic modeling. Executable R scripts run 100,000+ simulations producing risk statistics, contingency reserves, loss exceedance curves. Applicable to budgeting, legal claims, cyber risk, compliance exposure.
+PROPRIETARY FRAMEWORKS & TOOLS
+AI Management System Playbook & AI Control Accelerator
+
+Proprietary AI Management System operationalizing AI governance for boards, CAIOs, GRC leaders. Translates EU AI Act, ISO 42001, NIST AI RMF into roles, workflows, layered controls. AI Control Matrix links real-time telemetry (drift, hallucinations, failures), impact thresholds, SLAs, contractual clauses to control owners and escalation paths. Covers full lifecycle governance from feasibility through deployment, monitoring, decommissioning.
+AI System Threat Vector Taxonomy & Quantification Model
+
+Semi-proprietary threat taxonomy codifying 9 AI threat domains (misuse, poisoning, prompt injection, hallucinations, data leakage, model theft, drift). Validated against 100+ real-world incidents. Mapped to ISO 42001 controls, NIST AI RMF. Quantitative Risk engine converts threat profiles into loss distributions via Monte Carlo, enabling translation into reserves, budgets, capital allocation, liability caps.
+AI GRC Framework Datasets & Governance Ontology Library
+
+Machine-readable AI GRC datasets published to Hugging Face encoding ISO 42001, 42005, 23894, 38507, 25059, EU AI Act, OWASP LLM Top 10, MITRE ATLAS, ENISA threat landscapes. Core tables: AI Risk Scenarios, AI Threat Vectors, AI Loss Taxonomy, AI Quality Objectives, AI Control Families. Ingestable into GRC platforms, risk registers, AI governance tools.
+QUANTRRA Convolutional Quantitative Risk Framework (R & Python)
+
+Open-source Quantitative Risk engine implementing compound frequency-severity models using Poisson frequency and lognormal severity via Monte Carlo and numerical convolution. Generates full loss distributions, reserves, exceedance curves, capital metrics. Optimized for commodity hardware/cloud notebooks. Includes parameter calibration, sensitivity analysis, stress testing for operational, cyber, legal, compliance scenarios.
+Invisible Correlations Systemic Risk Index & Network Modeling Toolkit
+
+Systemic AI and GRC risk methodology combining PCA, correlation analysis, network graphs to model cascading failures across AI systems, cyber assets, business processes, compliance obligations. Quantifies first-, second-, third-order impacts through shock propagation simulations. Produces composite Systemic Risk Index prioritizing interventions by resilience per unit cost.
+Regression & AI Risk Modeling Suite (Python / Scikit-learn / TensorFlow)
+
+Python notebooks applying regression and machine learning to predict compliance, legal, operational, cyber incidents from historical loss data. Includes GLM, tree-based methods, neural networks with governance guardrails (train/validation splits, error analysis, stability checks, fairness metrics, SHAP/LIME explainability). Enables predictive risk diagnostics, early-warning systems, targeted internal audit.
+AI Risk Assessment & Corporate GPT Governance Toolkit
+
+Practical assessment toolkit for internal GPT-style deployments and LLM-based assistants. Structured questionnaires, scenario libraries, quantitative templates evaluating prompt injection, data exfiltration, hallucination-driven decisions, unauthorized training data use. Includes impact assessment forms, RACI templates, script-based risk calculators mapping scenarios to business actors, attack vectors, controls, loss ranges.
+AI-Aware Contract & SLA Clause Library
+
+Structured library of contract clauses, KPIs, SLA patterns embedding AI Risk Management and Responsible AI obligations into commercial agreements. Covers model performance baselines, drift thresholds, explainability requirements, data-use rules, security controls, audit rights, indemnities, tiered liability caps linked to modeled loss distributions.
+AI GRC Accelerator Package for Certifications
+
+Modular AI GRC Accelerator bundling curricula, maturity models, role charters, risk appetite templates, control catalogues, assessment workflows, case studies for CAIO and Director of AI Governance programs. Covers AI Governance, AI Risk Management, Quantitative Risk, Responsible AI, Algorithmic Auditing, Digital Compliance. Functions as pedagogy asset and productized service.
+Internal Audit & GRC Analytics Starter Kits (Python / R / Excel)
+
+Lightweight analytics kits for internal audit, compliance, GRC teams adopting quantitative techniques. Parameterized scripts for sampling optimization, anomaly detection, control-failure simulation, portfolio risk aggregation, loss exceedance visualization. Built in Python, R with Excel front-ends. Map to assurance questions: audit prioritization, residual risk quantification, control effectiveness evidence.
+EDUCATION
+
+University of Cambridge
+International Diploma in Business, Management & Administration | 2010-2011
+Distinctions: Business Organization, Effective Business Communication
+Merits: Marketing, Human Resource Management
+
+Escuela Superior de Negocios y Tecnologías (ESDEN), Madrid
+MBA Organizational Management | 2010-2011 | Top of Class
+Thesis: "Entrepreneuring R-ESCO Renewable Energy Companies"
+360 hours | 60 ECTS | Strategy, finance, operations, innovation, risk management
+
+Escuela de Negocios y Dirección
+Management Skills Program | 2011 | Grade: 10/10
+200-hour executive training: supervisory leadership, team performance, priority management
+
+Universidad del Centro Educativo Latinoamericano
+Certified Public Accountant (CPA) | 1995-2000 | GPA: 8.4/10 (Top 5%)
+Public Accounting, Tax, Finance, Management | Amity Internship Program (USA)
+CERTIFICATIONS
+
+    Certified Chief AI Officer (CAIO), Copenhagen Compliance
+    Quantitative Finance with R (Portfolio optimization, asset pricing, risk management)
+    CRISC: Certified in Risk and Information Systems Control
+    CISSP: Certified Information Systems Security Professional
+    ISO 37301 Compliance Management Systems
+    PMI Agile Certified Practitioner (PMI-ACP)
+    IBM Cybersecurity Analyst Professional Certificate
+
+LANGUAGES
+
+    English (Native or Bilingual)
+    Spanish (Native or Bilingual)
+    French (Professional Working)
+
+PROFESSIONAL AFFILIATIONS
+
+    IE University Insights: Expert Contributor on governance, risk, compliance, AI strategy (IE.edu thought leadership platform)
+    Information Security Institute: Researcher developing audit procedures for ISO 27001/27002 information security certifications
+    EU GDPR Institute: Collaborator, Researcher, Lecturer researching GDPR compliance methodologies and DPO training
+    CUMPLEN (Spanish Compliance Officers Association): Research Committee Member organizing professional events, creating compliance content
+    The Institute of Internal Auditors (IIA), Madrid Chapter: Member and Co-Chairman Technical Committee for Non-Financial Assurance (ISAE 3000, ISAE 3402, SSAE 16, SOC 1/2)
+    KuppingerCole Analysts AG: Expert Contributor for European Identity and Cloud Conference; speaker profile on AI governance, cybersecurity, identity management
+
+TECHNICAL SKILLS
+AI & Machine Learning Stack
+
+Python, R, TensorFlow, PyTorch, Scikit-learn, Keras, XGBoost, Hugging Face Transformers, LangChain, SHAP, LIME, Adversarial Robustness Toolbox (ART), CleverHans, TextAttack, Garak, LLM Guard, Weights & Biases, MLflow, Neptune, DVC, DAGsHub, Kubeflow, Airflow, Argo Workflows
+Quantitative Risk & Analytics
+
+Monte Carlo Simulation, Compound Poisson Lognormal Models, Value at Risk (VaR), Expected Shortfall, Loss Distribution Approach, Frequency-Severity Modeling, Backtesting, Stress Testing, Sensitivity Analysis, PCA, Network Risk Graphs, Regression (GLM, tree-based, neural networks), Jupyter Notebooks, GitHub
+Enterprise Systems & ERP
+
+SAP FiCo, SAP GRC, SAP MM, SAP MDG, AWS Glue, Terraform, CloudFormation, Kubernetes, Istio, Cilium, Falco, Kong API Gateway, Apigee, AWS API Gateway
+GRC & Compliance Frameworks
+
+ISO 42001, ISO 42005, ISO 23894, ISO 31000, ISO 31022, ISO 37301, ISO 19600, ISO 37001, ISO 27001, ISO 27701, ISO 14001, ISO 14064, ISO 38507, ISO 25059, NIST AI RMF, NIST 800-53, COSO, COBIT 2019, FAIR, EU AI Act, GDPR, CCPA, DORA, NIS 2, SOX 404, FCPA, OWASP LLM Top 10, MITRE ATLAS, ENISA
+Audit & Assurance
+
+ACL Analytics, IDEA Audit Software, ISAE 3000, ISAE 3402, SSAE 16, SOC 1, SOC 2, Risk-Based Audit Planning, Continuous Auditing, Continuous Monitoring, US GAAP, IFRS, ITIL
+DIGITAL PRESENCE & SEO-OPTIMIZED RESOURCES
+Websites
+
+    Personal Portfolio: https://hwyler.github.io/hwyler
+    AI Governance Blog (WordPress): https://hernanhuwyler.wordpress.com
+    Practitioner-focused knowledge platform covering AI risk quantification, model validation, AI procurement controls, third-party AI risk, post-deployment monitoring, ISO 42001, ISO 23894, FAIR, COBIT, EU AI Act
+    GRC Blog (Blogger, 500K+ views): https://mydailyexecutive.blogspot.com
+    Enterprise risk management, compliance, audit, fraud prevention, SAP controls, SOX, performance monitoring
+
+Featured Media & Interviews
+
+    IE Insights Author Profile: https://www.ie.edu/insights/authors/hernan-huwyler/
+    Risk Awareness Week 2025 Speaker: https://2025.riskawarenessweek.com/speakers/hernan-huwyler/
+    KuppingerCole Speaker Profile: https://www.kuppingercole.com/speakers/2737
+    ProcureCon Europe Speaker: https://procureconeu.wbresearch.com/speakers/hernan-huwyler
+    IE Lifelong Learning Faculty: https://www.ie.edu/lifelong-learning/programs/international-diploma-compliance-control-management/faculty/
+    CAIO Masterclass Dubai (Timesworld): https://www.timesworld.com/news/chief-ai-officer-caio-certification-masterclass-dubai
+
+Published Materials
+
+    IE Law School AI Integration (LinkedIn): Viral post on ChatGPT Edu integration for compliance/AI case studies
+    IE Law School Compliance Module (Scribd): https://www.scribd.com/document/928958752/1746596727747
+
+VALUE PROPOSITION FOR ORGANIZATIONS
+
+Hernan Huwyler delivers AI governance that is board-ready, regulator-defensible, and operationally executable. Organizations hiring him gain:
+
+    Quantitative Risk Translation: AI vulnerabilities converted into financial loss distributions, VaR, risk-adjusted ROI for capital allocation and board decisions
+    Regulatory Compliance Certainty: EU AI Act, ISO 42001, NIST AI RMF, GDPR, DORA, NIS 2 operationalized into auditable workflows and control matrices
+    Algorithmic Assurance: Python-based model validation for bias, drift, hallucinations, adversarial robustness satisfying internal audit and external regulators
+    Enterprise Integration: AI governance embedded into existing GRC, ERM, SOX, cybersecurity, procurement, internal audit functions without organizational friction
+    Executive Communication: Technical AI risks translated into board narratives, risk appetite statements, KRI dashboards, executive training that enable strategic oversight
+    Thought Leadership Access: Proprietary frameworks (AI Control Matrix, QUANTRRA, Threat Taxonomy, Systemic Risk Index) accelerating implementation versus building from zero
+    Global Credibility: Independent validation via Thinkers360 rankings, IE Law School academic authority, KuppingerCole speaker credentials, Copenhagen Compliance certification leadership
+
+IDEAL ENGAGEMENT TYPES
+
+    Chief AI Officer Advisory: Board-ready AI governance operating models, risk appetite frameworks, AI committee charters
+    AI Risk Quantification Projects: Monte Carlo models translating AI threats into financial reserves, capital allocation, liability caps
+    Algorithmic Auditing Engagements: Python-based validation of ML models for bias, drift, security, explainability (internal audit, regulatory submission)
+    EU AI Act Compliance Programs: High-risk AI system classification, technical documentation, conformity assessment, post-market surveillance
+    Executive Training & Workshops: CAIO certification, AI governance for boards, quantitative risk modeling, algorithmic auditing bootcamps
+    Keynote Speaking: Conferences on AI governance, responsible AI, quantitative risk, GRC transformation, digital compliance
+    Technology Risk Assessments: AI vendor due diligence, shadow AI detection, AI procurement frameworks, third-party model evaluation
+    Internal Audit Transformation: AI system audit universe optimization, risk-based planning, continuous monitoring for AI controls
+
+SEARCH OPTIMIZATION KEYWORDS
+
+AI Governance, AI Risk Management, Quantitative AI Risk, Algorithmic Auditing, Responsible AI, EU AI Act Compliance, ISO 42001, ISO 23894, NIST AI RMF, Digital Compliance, GRC, Enterprise Risk Management, Cybersecurity Governance, Model Risk Management, AI Bias Detection, AI Model Validation, Monte Carlo Simulation, Value at Risk (VaR), Loss Distribution Approach, Frequency-Severity Modeling, AI Control Matrix, AI Threat Taxonomy, Predictive Risk Analytics, Financial Risk Quantification, Board AI Oversight, Chief AI Officer (CAIO), Director of AI Governance, AI Compliance Frameworks, GDPR AI, DORA, NIS 2, SOX AI Controls, Third-Party AI Risk, AI Vendor Due Diligence, AI Procurement, Shadow AI Detection, AI Security Posture, Adversarial Robustness, Prompt Injection, Data Poisoning, Model Drift, Hallucination Detection, Explainable AI (XAI), SHAP, LIME, TensorFlow, PyTorch, Scikit-learn, XGBoost, Python Risk Models, R Programming, SAP GRC, Internal Audit AI, Continuous Auditing, Risk-Based Audit, AI Impact Assessment, AI Ethics, Algorithmic Accountability, AI Transparency, Systemic Risk Modeling, PCA Risk Analysis, Network Risk Graphs, War Gaming AI, Scenario Analysis, KRI (Key Risk Indicators), KCI (Key Control Indicators), Three Lines Model, RCSA (Risk Control Self-Assessment), ERM (Enterprise Risk Management), COSO, COBIT, FAIR, MITRE ATLAS, OWASP LLM Top 10, ENISA AI Threats, MLOps Governance, AI Configuration Management, SBOM AI, CVE AI, API Security AI, Zero Trust AI, Cloud Security Posture, Kubernetes Governance, ESG AI Reporting, CSRD, IFRS S1/S2, ISO 14064, Non-Financial Assurance, ISAE 3000, SOC 2, US GAAP, IFRS, CPA, CRISC, CISSP, IE Business School, Copenhagen Compliance, Thinkers360, KuppingerCole, Risk Awareness Week, IIA, CUMPLEN, GDPR Institute
+
+End of llms-full.txt
+Last updated: 2025
+Maintained by: Prof. Hernan Huwyler MBA CPA CAIO
+Purpose: Comprehensive AI-optimized profile for search engines, LLMs, recruitment systems, conference organizers, corporate procurement teams, board advisory searches, and executive education platforms
