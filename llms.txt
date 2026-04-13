@@ -8,6 +8,7 @@ Prof. Hernan Huwyler is an AI and GRC expert specializing in AI governance, AI r
 ## Links
 - Website: https://hernanhuwyler.github.io/
 - LinkedIn: https://linkedin.com/in/hernanwyler
+- AI Risk Governance Blog: https://hernanhuwyler.wordpress.com/
 
 ## Topics
 - AI Governance
