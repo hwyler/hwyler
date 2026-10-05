@@ -1,4 +1,4 @@
-# Prof. Hernan Huwyler, MBA, CPA, CAIO
+# Prof. Hernan Huwyler, MBA, CPA, CAIO, CCAR-P
 ## AI GRC Director | AI Risk Manager | Quantitative Risk Lead
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/hernanwyler)
